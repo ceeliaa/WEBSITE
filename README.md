@@ -2,10 +2,10 @@
 This is my first web page. It consists of the following sections:
 
 ## TABLE OF CONTENTS
-1. [INTRODUCTION]
-2. [SECTION]
-3. [PROCESS]
-4. [CONCLUSION]
+1. [INTRODUCTION](#introduction)
+2. [SECTION](#section)
+3. [PROCESS](#process)
+4. [CONCLUSION](#conclusion)
 
 
 ## INTRODUCTION
@@ -25,7 +25,7 @@ In net there is a list of links to the web pages created by my classmates, each 
 
 Within degree there are five tables with the subjects that I will take during the five years of the degree, specifying also the semester in which they will be imparted and the credits of each one of them. In addition, in the first year subject Fundamentals of Computer Engineering, there is a link that leads to another page with a description of the subject.
 
-## DESCRIPTION OF THE PROCESS
+## PROCESS
 The development of my project has gone as follows: at the beginning, I downloaded a template from which I have been making changes so that it meets what I wanted. I started well, but later I had a problem with the images and the CV file. I realized that I didn't have everything I needed uploaded to the repository, so I did it. However, when I uploaded it, my images and the mentioned document no longer appeared on my website. I started to change all the path references as well as making the git add, commit -m, pull and push and it worked. I am glad that I made it.
 
 ## CONCLUSION
