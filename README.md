@@ -31,4 +31,6 @@ The development of my project has gone as follows: at the beginning, I downloade
 ## CONCLUSION
 In conclusion, it is the project in which I have learned the most in this semester. I enjoyed it. I was able to shape a design that was in my head into a web page. I have learned that it is important to make sure that the repository in GitHub is well created to avoid problems like the ones I had in the final phase.
 
+## COMPROBACION POR MOISES MARTINEZ
+
 
